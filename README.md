@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ux design and a third langauge!
 - 💞️ I’m not currently looking to collaborate, but might be later!
 - 📫 Drop an email to thewren136@gmail.com, or check out my website:
-http://wrenscodesign.com/
+https://wa-wren-j.github.io/
 
 <!---
 wa-wren-j/wa-wren-j is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
